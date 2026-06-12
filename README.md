@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=6C63FF&text=Amarpreet%20Singh&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=BCA+Student+%7C+Cybersecurity;Cloud+Computing+Learner;Python+Developer;Technical+Support+Specialist;Aspiring+Cloud+%26+AI+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=BCA+Student+%7C+Cybersecurity+Enthusiast;Cloud+Computing;Python+Developer;Technical+Support+Specialist;Aspiring+Cloud+%26+AI+Engineer" />
 
 <br>
 
