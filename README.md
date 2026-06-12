@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=6C63FF&text=Amarpreet%20Singh&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=BCA+Student+%7C+Cloud+Computing+Enthusiast;Cybersecurity+Learner;Python+Developer;Technical+Support+Specialist;Aspiring+Cloud+%26+AI+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=BCA+Student+%7C+Cybersecurity;Cloud+Computing+Learner;Python+Developer;Technical+Support+Specialist;Aspiring+Cloud+%26+AI+Engineer" />
 
 <br>
 
@@ -36,7 +36,7 @@
 
 # About Me
 
-I am **Amarpreet Singh**, a Bachelor of Computer Applications (BCA) student at **Uttaranchal University**, graduating in **2026**. My interests lie in **Cloud Computing, Cybersecurity, Technical Support, Networking, Artificial Intelligence, and Software Development**.
+I am **Amarpreet Singh**, a Bachelor of Computer Applications (BCA) student at **Uttaranchal University**, graduating in **2026**. My interests lie in **Cybersecurity, Cloud Computing , Technical Support, Networking, Artificial Intelligence, and Software Development**.
 
 I enjoy building practical technology solutions that solve real-world problems through software engineering principles, secure system design, and cloud technologies. My academic and project experience has strengthened my understanding of Python development, computer networking, operating systems, cybersecurity fundamentals, and cloud infrastructure.
 
