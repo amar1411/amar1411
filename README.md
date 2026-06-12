@@ -34,22 +34,24 @@
 
 ---
 
-# About Me
 
-I am **Amarpreet Singh**, a Bachelor of Computer Applications (BCA) student at **Uttaranchal University**, graduated. My interests lie in **Cybersecurity, Cloud Computing , Technical Support, Networking, Artificial Intelligence, and Software Development**.
+## About Me
 
-I enjoy building practical technology solutions that solve real-world problems through software engineering principles, secure system design, and cloud technologies. My academic and project experience has strengthened my understanding of Python development, computer networking, operating systems, cybersecurity fundamentals, and cloud infrastructure.
+Aspiring Cybersecurity , Backend Developer Cloud Engineer, and Professional with hands-on experience in backend development, cloud technologies, networking, and technical support.
+
+Graduate in  Bachelor of Computer Applications (BCA) at Uttaranchal University (2026), while gaining industry experience as a Backend Intern at Ezintsha System Private Limited.
+
+My focus is on building scalable backend systems, cloud-native solutions, and security-aware applications. I enjoy solving real-world problems through software engineering, automation, cloud computing, and modern development practices.
 
 ### Open To
 
-* Cloud Computing Roles
-* Technical Support Engineer Roles
-* IT Support Analyst Roles
-* Cybersecurity Internships
-* Cloud Support Associate Roles
-* Software Development Internships
-* Graduate Trainee Programs
-* Open Source Contributions
+- Backend Development Roles
+- Cloud Support Associate Roles
+- Technical Support Engineer Roles
+- Cybersecurity Analyst Roles
+- Software Development Internships
+- Graduate Engineer Programs
+- Open Source Contributions
 
 ---
 
@@ -210,6 +212,10 @@ Worked as a Backend Intern, contributing to backend system development, maintena
 
 # Certifications
 
+### Deloitte
+
+![Deloitte Cyber Security](https://img.shields.io/badge/Deloitte-Cyber%20Security-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)
+
 ### AWS
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud%20Computing-FF9900?style=for-the-badge\&logo=amazonaws)
@@ -249,28 +255,25 @@ Worked as a Backend Intern, contributing to backend system development, maintena
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amar1411&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amar1411&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amar1411&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amar1411&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amar1411&theme=tokyonight"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amar1411&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 # GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=amar1411&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=amar1411&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
-
 ---
 
 # Contribution Activity
@@ -287,11 +290,9 @@ Worked as a Backend Intern, contributing to backend system development, maintena
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+![Snake animation](https://github.com/amar1411/amar1411/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
----
 
 # Current Focus
 
