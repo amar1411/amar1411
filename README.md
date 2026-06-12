@@ -36,7 +36,7 @@
 
 # About Me
 
-I am **Amarpreet Singh**, a Bachelor of Computer Applications (BCA) student at **Uttaranchal University**, graduating in **2026**. My interests lie in **Cybersecurity, Cloud Computing , Technical Support, Networking, Artificial Intelligence, and Software Development**.
+I am **Amarpreet Singh**, a Bachelor of Computer Applications (BCA) student at **Uttaranchal University**, graduated. My interests lie in **Cybersecurity, Cloud Computing , Technical Support, Networking, Artificial Intelligence, and Software Development**.
 
 I enjoy building practical technology solutions that solve real-world problems through software engineering principles, secure system design, and cloud technologies. My academic and project experience has strengthened my understanding of Python development, computer networking, operating systems, cybersecurity fundamentals, and cloud infrastructure.
 
